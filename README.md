@@ -40,7 +40,7 @@ This project is a classic Tic-Tac-Toe game developed in C++. Two players can pla
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/seharshgupta/tic-tac-toe-cpp.git
+    git clone https://github.com/ANSHKIRAR/TIC-TAC-TOE-CPP-.git
     ```
 2. Navigate to the project directory:
     ```bash
